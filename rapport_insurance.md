@@ -2,6 +2,8 @@
 
 **Projet de Data Science & Machine Learning - A. Larhlimi**  
 **Année Universitaire 2025-2026**
+**Ezraidy soulaimane**
+**22006195**
 
 ---
 
