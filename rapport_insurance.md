@@ -1,5 +1,5 @@
 # Prédiction des Coûts d'Assurance Santé par Machine Learning
-![WhatsApp Image 2025-12-11 à 11 42 57_cb4e8d93](https://github.com/user-attachments/assets/e19246fe-2886-44f1-ad00-65ed7ab4a4ea)
+![WhatsApp Image 2025-12-11 à 11 43 53_c949579c](https://github.com/user-attachments/assets/66a98179-12f8-4c30-8c7d-d2e6b8dd62b9)
 
 
 **Projet de Data Science & Machine Learning - A. Larhlimi**  
