@@ -117,4 +117,3 @@ Distribution des Charges par Statut Tabagique
 
 ---
 
-**Code et livrables complets disponibles sur GitHub** : [Lien du dépôt à compléter]
